@@ -1,0 +1,12 @@
+* Test varius outcome posibilities
+* Inferetnital statictics
+* Only one of the out come possibilities will actually play out
+* Any of the possibilties could have occured and should be wighed -> wheter or not a descions was ggod one
+* 
+
+
+Simulatos Uses
+*To asses risk tradinn strategies or stcok
+*Succes is not the only measure of whether a choice is goog or not
+*You try to figure out a parameter after the fact
+*Potencial out comes of a risk of a descion
