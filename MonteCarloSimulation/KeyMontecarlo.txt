@@ -1,12 +1,59 @@
+At its simplest level, a Monte Carlo analysis (or simulation) involves running many scenarios with different random inputs and summarizing the distribution of the results.
+
+*** repeated random sampling to obtain numerical results.  ** 
+**often used in physical and mathematical**
+**iclude modeling phenomena with significant uncertainty **
 * Test varius outcome posibilities
 * Inferetnital statictics
 * Only one of the out come possibilities will actually play out
-* Any of the possibilties could have occured and should be wighed -> wheter or not a descions was ggod one
-* 
+* Any of the possibilties could have occured and should be wighed -> wheter or not a descions was good one
+
+
+Monte Carlo methods vary, but tend to follow a particular pattern:
+
+Define a domain of possible inputs
+Generate inputs randomly from a probability distribution over the domain
+Perform a deterministic computation on the inputs
+Aggregate the results
 
 
 Simulatos Uses
-*To asses risk tradinn strategies or stcok
+*To asses risk tradign or strategies or stock markets
 *Succes is not the only measure of whether a choice is goog or not
 *You try to figure out a parameter after the fact
-*Potencial out comes of a risk of a descion
+*Potencial out comes of a risk of to make a descion
+
+
+CERN 
+CERN, the European Organization for Nuclear Research
+*CERN’s has Large Hadron Collider. It is unique in the world
+*Web was develop by CERN researchers to comunicate each other
+*Scaners sensors 
+LCH 27 KM of full high tecnology
++Detectors to makes pyshcis Cameras
+
+*High and top tecnology in the world
+*No military objectives
+*In pirscits to make cience
+
+*2 HOURS - 10 HOURS to process
+*Any type of particles 
+* In the data center the just collect onle the 1% of all of this colisions
+
+
+https://cds.cern.ch/record/932011?ln=es
+
+TIER = Collecta data
+TIER 1 Agregate data center
+TIERN 2
+Simulation
+End-use anlysis
+
+* 15000 Servers and olny 200000 core CPUS just only can analyze the 15% of all the data.
+* Not centralized * Closer to the cientis
+* Always are improving their operations. It means new resarchs
+* Using staticts to make a better compresion of the pyshsic
+
+
+
+
